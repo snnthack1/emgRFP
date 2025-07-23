@@ -36,7 +36,7 @@ Proposals must focus on projects that can be completed using existing off-the-sh
 **2. Neuromotor ethics**
 
 Long-term motor learning studies may require large and longitudinal data collections that may lead to a meaningful understanding about individual user behaviors. Proposals must include a neuromotor ethics component that enables scientist-ethicist collaboration on relevant topics, including but not limited to:
-- Responsible use of longitudinally collected motor learning data, which can include tailoring the experience to the user while maintaining data security and/or privacy in service of user value
+- Responsible use of longitudinally-collected motor learning data, which can include tailoring the experience to the user while maintaining data security and/or privacy in service of user value
 - Continuing to promote user agency to empower individuals to drive their own unique experience with the technology
 - Ensuring that learning techniques are inclusive and work for a wide range of people
 
@@ -62,4 +62,6 @@ Awards must comply with applicable US and international laws, regulations and po
 - Applicants must be the Principal Investigator on any resulting award.
 - Organizations must be a nonprofit or non-governmental organization with recognized legal status in their respective country (equal to 501(c)(3) status under the United States Internal Revenue Code).
 
-For consideration, proposals must be emailed to Stephanie Naufel at neurotech@meta.com by the end of the day on **September 1, 2025**. Submissions will receive a response in the month of October.
+For consideration, proposals must be emailed to neurotech@meta.com by the end of the day on **September 1, 2025**. Submissions will receive a response in the month of October.
+
+*Questions can be directed to our research program manager, Stephanie Naufel, at the same email address. Clarifications or responses to inquiries provided during the open call period will be posted to an FAQ below for wide visibility. Please check back for updates.*
